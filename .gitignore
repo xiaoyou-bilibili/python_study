@@ -4,3 +4,6 @@
 *.txt
 *.bin
 *.pkl
+*.ico
+*.json
+*.csv
